@@ -3,8 +3,9 @@
 // Created by: Lily Carroll
 // Created on: Nov/21/2023
 // This program will calculate the area of a triangle.
-// Allowing for input & ouput in my program
+// Allowing for input & output in my program
 // Allowing for math operators to be used.
+// Allowing for use of std::setprecision (rounding).
 #include<iostream>
 #include<cmath>
 #include<iomanip>
